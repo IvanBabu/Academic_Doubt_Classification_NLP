@@ -1,0 +1,145 @@
+﻿question,category,answer,keywords
+What is a prime number?,Mathematics,A prime number is an integer greater than 1 with exactly two positive factors: 1 and itself.,prime number factors
+What is the Pythagorean theorem?,Mathematics,"For a right triangle, a² + b² = c², where c is the hypotenuse.",pythagorean theorem triangle
+What is a percentage?,Mathematics,A percentage expresses a quantity as a fraction of 100.,percentage fraction
+What is a linear equation?,Mathematics,"A linear equation has variables only to the first power, such as 2x + 3 = 7.",linear equation algebra
+What is the area of a circle?,Mathematics,"The area is A = πr², where r is the radius.",circle area radius
+What is the median?,Mathematics,"The median is the middle value after data is sorted; for an even count, it is the mean of the two middle values.",median statistics
+What is a ratio?,Mathematics,"A ratio compares quantities by division, such as 2:3.",ratio proportion
+What is probability?,Mathematics,"Probability measures how likely an event is, from 0 for impossible to 1 for certain.",probability event
+What is the scientific method?,Science,"It is a process of observation, forming a hypothesis, testing it, analysing results, and drawing a conclusion.",scientific method hypothesis
+What is an ecosystem?,Science,An ecosystem includes living organisms and the non-living parts of their environment interacting with one another.,ecosystem environment
+What is photosynthesis?,Science,"Green plants use sunlight, carbon dioxide, and water to make glucose and release oxygen.",photosynthesis plants
+What is an atom?,Science,An atom is the smallest unit of a chemical element that retains its chemical identity.,atom element
+What is renewable energy?,Science,"Renewable energy comes from naturally replenished sources such as sunlight, wind, and flowing water.",renewable energy solar wind
+What is the water cycle?,Science,"Water moves continuously through evaporation, condensation, precipitation, and collection.",water cycle evaporation
+What is biodiversity?,Science,"Biodiversity is the variety of living organisms within species, between species, and among ecosystems.",biodiversity species
+What is a food chain?,Science,A food chain shows how energy and nutrients pass between organisms through feeding.,food chain energy
+What is Newton's first law?,Physics,An object remains at rest or moves at constant velocity unless acted on by a net external force.,newton first law inertia
+What is force?,Physics,Force is an interaction that can change an object's motion; it is measured in newtons.,force newton motion
+What is the SI unit of power?,Physics,The SI unit of power is the watt (W).,power watt
+What is Ohm's law?,Physics,"Ohm's law states V = IR, where voltage equals current multiplied by resistance under suitable conditions.",ohms law voltage current resistance
+What is gravity?,Physics,Gravity is the attractive interaction between masses.,gravity mass
+What is kinetic energy?,Physics,"Kinetic energy is energy due to motion; for an ordinary object, KE = ½mv².",kinetic energy motion
+What is the difference between mass and weight?,Physics,Mass measures the amount of matter in kilograms; weight is gravitational force measured in newtons.,mass weight gravity
+What is electric current?,Physics,"Electric current is the rate of flow of electric charge, measured in amperes.",electric current charge
+What is the pH scale?,Chemistry,"The pH scale indicates acidity or basicity. At about 25°C, pH 7 is neutral, below 7 acidic, and above 7 basic.",pH acid base
+What is a chemical element?,Chemistry,An element is a pure substance whose atoms have the same number of protons.,element atom proton
+What is a compound?,Chemistry,A compound forms when different elements are chemically bonded in fixed proportions.,compound chemical bond
+What is the periodic table?,Chemistry,The periodic table arranges elements by atomic number and groups elements with related properties.,periodic table atomic number
+What is oxidation?,Chemistry,Oxidation is the loss of electrons; it occurs with reduction in a redox reaction.,oxidation electrons redox
+What is a catalyst?,Chemistry,"A catalyst speeds up a reaction by providing an alternative pathway with lower activation energy, without being consumed overall.",catalyst reaction
+What is a covalent bond?,Chemistry,A covalent bond forms when atoms share one or more pairs of electrons.,covalent bond electrons
+What is the chemical formula of water?,Chemistry,Water has the formula H₂O: each molecule contains two hydrogen atoms and one oxygen atom.,water H2O formula
+What is a cell?,Biology,A cell is the basic structural and functional unit of living organisms.,cell biology
+What is DNA?,Biology,DNA stores hereditary genetic information in most living organisms.,DNA genetics heredity
+What do red blood cells do?,Biology,Red blood cells transport oxygen using haemoglobin and help carry some carbon dioxide back to the lungs.,red blood cells oxygen
+What is the function of the heart?,Biology,The heart pumps blood through the circulatory system.,heart circulation blood
+What is an enzyme?,Biology,"An enzyme is a biological catalyst, usually a protein, that speeds up a specific chemical reaction.",enzyme catalyst protein
+What is a habitat?,Biology,A habitat is the natural environment where an organism lives and obtains resources.,habitat organism
+What is mitosis?,Biology,Mitosis is cell division that usually produces two genetically similar daughter cells.,mitosis cell division
+What is a balanced diet?,Biology,"A balanced diet supplies suitable amounts of energy and essential nutrients, including protein, carbohydrates, fats, vitamins, minerals, fibre, and water.",balanced diet nutrition
+What is history?,History,"History studies and interprets past events using evidence such as documents, objects, oral accounts, and archaeological findings.",history past evidence
+What was the Indus Valley Civilization?,History,It was an ancient urban civilization that flourished in parts of present-day Pakistan and northwestern India during the Bronze Age.,indus valley civilization harappa
+Who was Mahatma Gandhi?,History,Mahatma Gandhi was a leader of India's independence movement who promoted nonviolent resistance and civil disobedience.,mahatma gandhi india
+When did India gain independence?,History,India became independent from British rule on 15 August 1947.,india independence 1947
+What was the French Revolution?,History,"Beginning in 1789, it transformed France's political and social order and challenged absolute monarchy and inherited privilege.",french revolution 1789
+What is archaeology?,History,"Archaeology studies past societies through material remains such as tools, buildings, pottery, and artefacts.",archaeology artefacts
+What was the Quit India Movement?,History,"Launched in August 1942, it demanded an end to British rule in India.",quit india movement 1942
+What is a primary historical source?,History,"A primary source is evidence created during the period being studied, such as a letter, diary, official record, or artefact.",primary source history
+What is geography?,Geography,"Geography studies places, environments, landscapes, and relationships between people and their surroundings.",geography environment
+What is the equator?,Geography,The equator is an imaginary line at 0° latitude that divides Earth into the Northern and Southern Hemispheres.,equator latitude
+What causes seasons?,Geography,Seasons are mainly caused by Earth's axial tilt as it orbits the Sun.,seasons earth tilt
+What is a monsoon?,Geography,A monsoon is a seasonal shift in wind patterns often associated with wet and dry periods.,monsoon rainfall
+What is a delta?,Geography,A delta is a landform made from sediment deposited where a river enters a slower-moving body of water.,delta river sediment
+What is latitude?,Geography,Latitude measures angular distance north or south of the equator.,latitude equator
+What is longitude?,Geography,Longitude measures angular distance east or west of the prime meridian.,longitude prime meridian
+What is urbanization?,Geography,Urbanization is an increase in the share of a population living in urban areas.,urbanization cities population
+What is social studies?,Social Studies,"Social studies explores people, society, history, geography, economics, and civic life.",social studies society
+What is culture?,Social Studies,"Culture includes shared beliefs, values, customs, language, arts, and practices of a group.",culture customs society
+What is democracy?,Social Studies,Democracy is a system in which people have a role in choosing leaders and influencing public decisions.,democracy government citizens
+What are human rights?,Social Studies,Human rights are basic rights and freedoms considered to belong to all people.,human rights equality
+What is a community?,Social Studies,"A community is a group connected by place, interests, identity, or shared activities.",community society
+What is social inequality?,Social Studies,"Social inequality occurs when resources, opportunities, rights, or status are distributed unevenly among groups.",social inequality equality
+What is migration?,Social Studies,Migration is the movement of people from one place to another to live temporarily or permanently.,migration population
+What is sustainable development?,Social Studies,Sustainable development meets present needs while protecting future generations' ability to meet their own needs.,sustainable development environment
+What is a noun?,English,"A noun names a person, place, thing, idea, or quality.",noun grammar
+What is a verb?,English,"A verb expresses an action, occurrence, or state of being.",verb grammar action
+What is an adjective?,English,An adjective describes or modifies a noun or pronoun.,adjective grammar
+What is a synonym?,English,A synonym is a word with the same or a similar meaning as another word in a particular context.,synonym vocabulary
+What is an antonym?,English,An antonym is a word with an opposite or contrasting meaning.,antonym opposite
+What is a metaphor?,English,"A metaphor describes one thing as another to suggest a similarity, such as 'time is a thief'.",metaphor figure of speech
+What is a simile?,English,"A simile compares two things explicitly, often using 'like' or 'as'.",simile comparison
+What is passive voice?,English,"In passive voice, the grammatical subject receives the action, as in 'The letter was written by Maya'.",passive voice grammar
+What is economics?,Economics,Economics studies how people and societies allocate scarce resources to satisfy needs and wants.,economics scarcity resources
+What is supply?,Economics,Supply is the quantity sellers are willing and able to offer at different prices during a period.,supply price market
+What is demand?,Economics,Demand is the quantity buyers are willing and able to purchase at different prices during a period.,demand buyers market
+What is inflation?,Economics,"Inflation is a sustained increase in the general price level, reducing the purchasing power of money.",inflation prices
+What is GDP?,Economics,Gross Domestic Product is the monetary value of final goods and services produced within a country during a period.,GDP economy production
+What is opportunity cost?,Economics,Opportunity cost is the value of the best alternative given up when a choice is made.,opportunity cost choice
+What is a budget?,Economics,A budget is a plan for expected income and spending over a period of time.,budget income spending
+What is unemployment?,Economics,Unemployment describes a situation in which people available for and seeking work do not have a job.,unemployment jobs labour
+What is the Constitution of India?,Civics,"It is India's supreme legal framework, establishing government structure, institutional powers, and rights and duties.",constitution india government
+What are fundamental rights?,Civics,"Fundamental Rights are constitutionally protected rights set out in Part III of the Constitution of India, subject to constitutional provisions.",fundamental rights india
+What is Parliament?,Civics,India's Parliament consists of the President and two Houses: the Lok Sabha and Rajya Sabha.,parliament lok sabha rajya sabha
+What is the role of the judiciary?,Civics,"The judiciary interprets and applies law, resolves disputes, and helps protect legal and constitutional rights.",judiciary courts law
+What is local self-government?,Civics,Local self-government allows bodies such as panchayats and municipalities to manage specified local matters and services.,local government panchayat municipality
+What is an election?,Civics,An election is a formal process in which voters choose representatives or decide on a public question.,election voting democracy
+What is the rule of law?,Civics,The rule of law means laws apply through established processes and people and authorities are accountable under the law.,rule of law justice
+What is a citizen?,Civics,A citizen is a legally recognized member of a state with rights and responsibilities under its laws.,citizen rights responsibilities
+What is the capital of India?,General Knowledge,New Delhi is the capital of India.,capital india new delhi
+What is the largest planet in the Solar System?,General Knowledge,Jupiter is the largest planet in the Solar System by diameter and mass.,jupiter solar system
+How many days are in a leap year?,General Knowledge,"A leap year has 366 days, with February having 29 days.",leap year calendar
+What is the currency of Japan?,General Knowledge,The currency of Japan is the Japanese yen.,japan currency yen
+Which is the largest ocean?,General Knowledge,The Pacific Ocean is the largest ocean on Earth by area.,pacific ocean geography
+What is the boiling point of water at standard atmospheric pressure?,General Knowledge,Pure water boils at approximately 100°C at standard atmospheric pressure.,boiling point water
+What does UNESCO stand for?,General Knowledge,"UNESCO stands for the United Nations Educational, Scientific and Cultural Organization.",unesco united nations
+How many sides does a hexagon have?,General Knowledge,A hexagon has six sides.,hexagon geometry
+What is the greenhouse effect?,Environmental Studies,"Greenhouse gases absorb and re-emit infrared radiation, warming Earth's surface and lower atmosphere.",greenhouse effect climate
+What is recycling?,Environmental Studies,Recycling processes used materials into products or materials that can be used again.,recycling waste
+What is deforestation?,Environmental Studies,"Deforestation is the clearing or removal of forests, often for agriculture, infrastructure, or resource extraction.",deforestation forest
+What is conservation?,Environmental Studies,"Conservation is the protection and responsible management of natural resources, habitats, and biodiversity.",conservation biodiversity
+What is composting?,Environmental Studies,Composting is the controlled decomposition of organic materials into a nutrient-rich soil amendment.,composting organic waste
+What is air pollution?,Environmental Studies,"Air pollution is the presence of harmful gases, particles, or biological materials in air at levels that can harm health or the environment.",air pollution health
+What is rainwater harvesting?,Environmental Studies,Rainwater harvesting collects and stores rainwater for later use or groundwater recharge.,rainwater harvesting water
+What is an endangered species?,Environmental Studies,An endangered species faces a high risk of extinction in the wild under defined conservation criteria.,endangered species extinction
+What is a Python list?,Programming,"A list is an ordered, mutable collection in Python that can contain duplicate values.",python list mutable
+What is a tuple?,Programming,A tuple is an ordered collection that cannot be changed after creation.,tuple immutable python
+What is a function in Python?,Programming,A function is a reusable block of code defined to perform a particular task.,function python def
+What is object-oriented programming?,Programming,Object-oriented programming organises software around objects that combine data and methods.,oop object class
+What is recursion?,Programming,Recursion occurs when a function calls itself to solve smaller instances of a problem; a base case stops the calls.,recursion function base case
+What is a loop?,Programming,A loop repeatedly executes a block of code. Python provides for loops and while loops.,loop for while
+What is an exception?,Programming,An exception is an error or unusual event during program execution; Python uses try and except to handle exceptions.,exception error try except
+What is Git?,Programming,Git is a distributed version-control system that tracks file changes and supports collaboration.,git version control
+What is machine learning?,AI/ML,Machine learning enables systems to learn patterns from data to make predictions or decisions.,machine learning ai data
+What is supervised learning?,AI/ML,Supervised learning trains a model using labelled examples paired with known target outputs.,supervised learning labelled classification
+What is unsupervised learning?,AI/ML,Unsupervised learning finds patterns in unlabelled data; clustering is a common example.,unsupervised learning clustering
+What is overfitting?,AI/ML,Overfitting occurs when a model fits training data too closely and performs poorly on unseen data.,overfitting model generalization
+What is a neural network?,AI/ML,A neural network is a machine-learning model made of interconnected computational units called neurons.,neural network deep learning
+What is a confusion matrix?,AI/ML,A confusion matrix compares actual and predicted classes to show correct and incorrect classifications.,confusion matrix evaluation
+What is the difference between classification and regression?,AI/ML,"Classification predicts discrete categories, while regression predicts numerical values.",classification regression prediction
+What is cross-validation?,AI/ML,Cross-validation uses repeated train and validation splits to estimate how well a model generalises.,cross validation model evaluation
+What is a primary key?,DBMS,A primary key uniquely identifies each row in a database table and cannot contain NULL values.,primary key database
+What is a foreign key?,DBMS,A foreign key references a key in another or the same table and helps maintain referential integrity.,foreign key reference
+What is normalization?,DBMS,Normalization organises relational tables to reduce redundancy and avoid data anomalies.,normalization database redundancy
+What is SQL?,DBMS,"SQL is Structured Query Language, used to define, query, and manipulate relational data.",SQL query database
+What is a join in SQL?,DBMS,A JOIN combines related rows from tables using a matching condition.,join sql tables
+What is a database transaction?,DBMS,A transaction is a logical unit of database work; ACID properties support reliable transactions.,transaction ACID database
+What is the difference between DELETE and DROP?,DBMS,DELETE removes rows from a table; DROP removes a database object such as the table itself.,delete drop sql
+What is an index in a database?,DBMS,An index is a data structure that can speed up retrieval but requires storage and can slow some writes.,index database performance
+What is a computer network?,Networking,A computer network connects devices so they can exchange data and share resources.,network devices communication
+What is the OSI model?,Networking,"The OSI model describes networking in seven layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.",OSI model layers
+What is the difference between TCP and UDP?,Networking,"TCP provides reliable, ordered delivery; UDP has lower overhead but does not guarantee delivery or ordering.",TCP UDP transport
+What is an IP address?,Networking,An IP address identifies an interface on an IP network and helps route packets to their destination.,IP address routing
+What is DNS?,Networking,The Domain Name System translates domain names into IP addresses and other DNS records.,DNS domain IP
+What is a router?,Networking,A router forwards packets between networks using routing information to choose a path.,router packets network
+What is bandwidth?,Networking,"Bandwidth is the maximum data-transfer capacity of a communication link, commonly measured in bits per second.",bandwidth data rate
+What is a protocol?,Networking,"A network protocol is a set of rules that governs how devices format, transmit, and receive data.",protocol network communication
+What is natural language processing?,NLP,Natural Language Processing is a field of AI that enables computers to process and analyse human language.,NLP natural language AI
+What is tokenization?,NLP,"Tokenization splits text into smaller units such as sentences, words, or subwords called tokens.",tokenization text tokens
+What is stop-word removal?,NLP,Stop-word removal filters common words that may contribute little to a particular text-analysis task; it should be applied carefully.,stop words preprocessing
+What is stemming?,NLP,"Stemming reduces related words to a crude root form, which may not be a valid dictionary word.",stemming root preprocessing
+What is lemmatization?,NLP,Lemmatization maps a word to its dictionary base form using linguistic information.,lemmatization base form
+What is TF-IDF?,NLP,TF-IDF weights terms by their frequency in a document and rarity across a collection to represent text numerically.,TF-IDF vectorization
+What is cosine similarity?,NLP,"Cosine similarity compares the angle between vectors; for nonnegative TF-IDF vectors, values closer to 1 usually indicate greater similarity.",cosine similarity vectors retrieval
+What is text classification?,NLP,"Text classification assigns a predefined label to text, such as topic, sentiment, or spam category.",text classification label
